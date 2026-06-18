@@ -1,0 +1,21 @@
+{
+	"name": "apex-cart-engine",
+	"version": "1.0.0",
+	"description": "Enterprise E-Commerce Add To Cart & Checkout Engine",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"dev": "nodemon server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^17.4.2",
+		"express": "^5.2.1",
+		"mongoose": "^9.7.0"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.14"
+	}
+}
