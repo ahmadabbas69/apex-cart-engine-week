@@ -1,4 +1,4 @@
-# 🛒 Apex Cart Engine (Week 1 Backend)
+# 🛒 Apex Cart Engine 
 
 A high-performance, enterprise-grade e-commerce cart management subsystem engineered to handle persistent product state transitions, dynamic discount calculations, and conditional shipping logistics.
 
